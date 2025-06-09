@@ -1,10 +1,31 @@
-# Hello, my name is Koba_9813! 
+## ✨ About Me
 
-## 🔧Skills and Interests  
-- Languages:** HTML, CSS, Japanese
-- Currently learning:** Python,Javasprict,PHP,English
-- Interests:** Web app development, Gadgets
-<!---
-koba9813/koba9813 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 I'm a student from Japan with a passion for web development.  
+- 💖 I love working with **HTML**, **CSS**, **JavaScript**, and writing in **Japanese**.  
+- 📝 Check out my tech blog → [sunabacks.com](https://sunabacks.com/)
+
+<br>
+
+---
+
+## 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,py,arduino,bash" />
+
+---
+
+## 🖥 Operating Systems
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows" />
+
+---
+
+## 🛠 Dev Tools / Platforms
+
+<img src="https://skillicons.dev/icons?i=cloudflare,docker,firebase,vercel,vscode,github,gmail,wordpress" />
+
+---
+
+## 🌐 SNS / Communication
+
+<img src="https://skillicons.dev/icons?i=discord,instagram,mastodon,misskey,fediverse" />
