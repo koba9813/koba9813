@@ -1,8 +1,8 @@
 ## ✨ About Me
 
 - 👋 I'm a student from Japan with a passion for web development.  
-- 💖 I love working with **HTML**, **CSS**, **JavaScript**, and writing in **Japanese**.  
-- 📝 Check out my tech blog → [sunabacks.com](https://sunabacks.com/)
+- 💖 I love working with **HTML**, **CSS**, **JavaScript**, and **Japanese**.  
+- 📝 Check out my site → [sunabacks.com](https://sunabacks.com/)
 
 <br>
 
