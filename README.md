@@ -1,31 +1,40 @@
-## ✨ About Me
+# Koba_9813
 
-- 👋 I'm a student from Japan with a passion for web development.  
-- 💖 I love working with **HTML**, **CSS**, **JavaScript**, and **Japanese**.  
-- 📝 Check out my site → [sunabacks.com](https://sunabacks.com/)
+> I'm a student.  
+> Mostly doing things on a whim.
 
-<br>
-
----
-
-## 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,py,arduino,bash" />
+I like making random stuff with HTML, CSS, JS, and PHP.  
+I'm into retro and simple UI — I enjoy that nostalgic internet vibe.
 
 ---
 
-## 🖥 Operating Systems
+## Now Developing
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows" />
+### Manaita BBS
+
+A simple bulletin board system that runs with just files.  
+I'm building it to be easy to set up, but still actually usable.
+
+- Written in PHP / No database required  
+- Responsive layout  
+- Lightweight & PWA-ready  
 
 ---
 
-## 🛠 Dev Tools / Platforms
+## Sunabacks.com
 
-<img src="https://skillicons.dev/icons?i=cloudflare,docker,firebase,vercel,vscode,github,gmail,wordpress" />
+> A personal site I run while constantly wondering what to put on it.  
+> Just doing random things, basically.
+
+[https://sunabacks.com](https://sunabacks.com)
 
 ---
 
-## 🌐 SNS / Communication
+## Contact
 
-<img src="https://skillicons.dev/icons?i=discord,instagram,mastodon,misskey,fediverse" />
+- Website: [sunabacks.com](https://sunabacks.com)
+
+---
+
+My style is basically: build it myself, then play with it myself.
+I try to sound cool by using English, but I'm honestly terrible at it (though I am trying, I swear).
