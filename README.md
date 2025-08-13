@@ -25,3 +25,4 @@ A personal site I run while constantly wondering what to put on it.
 ---
 
 I try to sound cool by using English, but I'm honestly terrible at it (though I am trying, I swear).
+Thanks to my recent studies, I can read longer texts a bit better now! 
