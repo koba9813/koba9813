@@ -22,19 +22,9 @@ A multi-functional translation app supporting:
 
 It also provides **katakana readings**, so it's especially friendly for Japanese speakers who struggle with foreign languages.
 
-Currently, the UI language is **Japanese only**, but support for **English** and **Chinese** is under consideration.
 
-
-🔗 https://blackbird.weblike.jp/honyaku
-
----
-
-## Sunabacks.com
-
-A personal website I run while constantly wondering  
-what I should even put on it.
-
-🔗 https://sunabacks.com
+JA: https://blackbird.weblike.jp/honyaku
+EN: https://blackbird.weblike.jp/honyaku/en
 
 ---
 
