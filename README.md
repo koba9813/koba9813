@@ -9,11 +9,10 @@ I'm into retro and simple UI — I enjoy that nostalgic internet vibe.
 
 ## Now Developing
 
-### Manaita BBS
+### Irodori Translater
 
-A simple bulletin board system that runs with just files.  
-I'm building it to be easy to set up, but still actually usable.
-
+A multi-functional translation app that supports Japanese, English (US/UK), French, Chinese (Simplified/Traditional), and Korean. It also provides katakana readings, making it perfect for Japanese speakers like me who struggle with foreign languages!
+The UI language is currently only Japanese, but we are considering adding support for English and Chinese in the future.
 ---
 
 ## Sunabacks.com
