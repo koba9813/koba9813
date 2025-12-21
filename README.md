@@ -22,8 +22,8 @@ A multi-functional translation app supporting:
 
 It also provides **katakana readings**, so it's especially friendly for Japanese speakers who struggle with foreign languages.
 
-
 JA: https://blackbird.weblike.jp/honyaku
+
 EN: https://blackbird.weblike.jp/honyaku/en
 
 ---
