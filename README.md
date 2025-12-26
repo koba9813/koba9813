@@ -1,27 +1,12 @@
-# Koba_9813
+# Hello — I'm Koba_9813
 
-Hi, I'm a student.  
-I mostly build things on a whim.
+I'm a student living in Japan. I'm into programming right now, especially studying JavaScript and English too.  
+I like Linux, space, and music.
 
-I'm into **retro** and **simple UI** —  
-that nostalgic early-internet vibe really hits different.
+## Links
 
----
-
-## Now Developing
-
-### Irodori Translater
-
-A multi-functional translation app supporting:
-
-- Japanese  
-- English (US / UK)  
-- French  
-- Chinese (Simplified / Traditional)  
-- Korean  
-
-It also provides **katakana readings**, so it's especially friendly for Japanese speakers who struggle with foreign languages.
-
-JA: https://blackbird.weblike.jp/honyaku
-
-EN: https://blackbird.weblike.jp/honyaku/en
+- **Tools**: https://blackbird.weblike.jp  
+- **Sites**: https://sunabacks.com  
+- **Irodori Translation**: https://blackbird.weblike.jp/honyaku  
+  - A translation tool that handles Japanese, English, French, Korean, and Chinese.
+- **GitHub**: https://github.com/koba9813
