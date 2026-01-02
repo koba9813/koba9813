@@ -1,7 +1,6 @@
 # Hello — I'm Koba_9813
 
-I'm a student living in Japan. I'm into programming right now, especially studying JavaScript and English too.  
-I like Linux, space, and music.
+I'm a Japanese student who loves programming! Right now, I'm working on my English. I like fiddling with Linux, going on trips, and blasting some tunes. Basically, I just dive into whatever piques my interest.
 
 ## Links
 
