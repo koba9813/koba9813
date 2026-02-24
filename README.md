@@ -4,8 +4,10 @@ I'm a Japanese student who loves programming! Right now, I'm working on my Engli
 
 ## Links
 
-- **Tools**: https://blackbird.weblike.jp  
-- **Sites**: https://sunabacks.com  
+- **My Site**: https://haya.win
+- **Zenn**: https://zenn.dev/koba9813
+
+## Apps
+
 - **Irodori Translation**: https://blackbird.weblike.jp/honyaku  
   - A translation tool that handles Japanese, English, French, Korean, and Chinese.
-- **GitHub**: https://github.com/koba9813
