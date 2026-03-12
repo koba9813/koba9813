@@ -11,5 +11,5 @@ Starting high school this April.
 **Built:**
 - [Irodori Translation](https://blackbird.weblike.jp/honyaku) — A translation tool supporting Japanese, English, French, Korean, and Chinese
  
- [My Site](https://haya.win) · [Zenn](https://zenn.dev/koba9813)
- 
+- [My Site](https://haya.win) — Profile & random stuff
+- [Zenn](https://zenn.dev/koba9813) — Tech articles & personal notes
