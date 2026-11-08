@@ -14,7 +14,3 @@ CSS · HTML · JavaScript · Kotlin · Linux · OpenCode · PHP · and more!
   - Normal flavor
   - Rich broth
   - Extra oil
-
----
-
-*Always curious, always building.*
