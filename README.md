@@ -1,11 +1,20 @@
-Good morning, and in case I don't see ya, good afternoon, good evening, and good night!
+# Good morning, and in case I don't see ya, good afternoon, good evening, and good night!
 
-I'm Koba9813.
+I'm **Koba9813**.
 
-I am a high school student living in Japan, taking on various challenges while utilizing LLMs.
+I'm a high school student based in Japan, exploring various challenges and building things with the help of LLMs.
 
-Frequently used:
-CSS, HTML, JavaScript, Kotlin, Linux, OpenCode, PHP, etc.
+### Frequently Used Technologies
 
-Things I love:
-Miso ramen from Yamaokaya. Normal flavor, rich broth, extra oil.
+CSS · HTML · JavaScript · Kotlin · Linux · OpenCode · PHP · and more!
+
+### Things I Love
+
+- **Yamaokaya Miso Ramen**
+  - Normal flavor
+  - Rich broth
+  - Extra oil
+
+---
+
+*Always curious, always building.*
